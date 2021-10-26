@@ -31,20 +31,28 @@ namespace RestControllerPairProgramming.Controllers
 
         // POST api/<ValuesController>
         [HttpPost]
-        public void Post([FromBody] string value)
+        public bool Post([FromBody] MusicRecords value)
         {
+            mgr.Create(value);
+            return true;
         }
 
         // PUT api/<ValuesController>/5
         [HttpPut("{id}")]
-        public void Put(int id, [FromBody] string value)
+        public bool Put(int id, [FromBody] MusicRecords value)
         {
+            mgr.Update(id, value);
+            return true;
         }
 
         // DELETE api/<ValuesController>/5
         [HttpDelete("{id}")]
-        public void Delete(int id)
+        public MusicRecords Delete(int id)
         {
+            MusicRecords musicRecords = mgr.Get(id);
+            mgr.Delete(id);
+            return musicRecords;
+
         }
     }
 }

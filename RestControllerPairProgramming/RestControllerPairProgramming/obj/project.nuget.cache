@@ -1,21 +1,22 @@
 {
   "version": 2,
-<<<<<<< HEAD
   "dgSpecHash": "Bgqsf4SA3XTSqg9uV4emjU0YyM+qjgfiPefHmu1jieHQyXCBhnDPG2qE+IRtkio9D2a+dkkzmw9SMPHI9uz3lw==",
   "success": true,
   "projectFilePath": "C:\\Users\\JPLGO\\OneDrive\\Dokumenter\\REST-Controller-MSTest\\RestControllerPairProgramming\\RestControllerPairProgramming\\RestControllerPairProgramming.csproj",
-=======
-  "dgSpecHash": "6qLfgY1M05wXsHgl4VyJDXkbBMjtxRyzsewTPdVAj2MDvQNuXBOBqjK7iBYVLe6+26S4zJUlChNe4IQIskB7bA==",
-  "success": true,
-  "projectFilePath": "C:\\Users\\Patrick\\Documents\\GitHub\\REST-Controller-MSTest\\RestControllerPairProgramming\\RestControllerPairProgramming\\RestControllerPairProgramming.csproj",
->>>>>>> 3d51cd52c2167cd8bc8451e6875933db91e2f066
   "expectedPackageFiles": [
-    "C:\\Users\\Patrick\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
-    "C:\\Users\\Patrick\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
-    "C:\\Users\\Patrick\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
-    "C:\\Users\\Patrick\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
-    "C:\\Users\\Patrick\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
-    "C:\\Users\\Patrick\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+    "C:\\Users\\JPLGO\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\JPLGO\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\JPLGO\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\JPLGO\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\JPLGO\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\JPLGO\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file C:\\Users\\JPLGO\\OneDrive\\Dokumenter\\REST-Controller-MSTest\\RestControllerPairProgramming\\RestControllerPairProgramming\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }
