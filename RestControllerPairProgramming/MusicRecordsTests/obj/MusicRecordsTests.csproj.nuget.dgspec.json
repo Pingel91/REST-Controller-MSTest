@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Patrick\\Documents\\GitHub\\REST-Controller-MSTest\\RestControllerPairProgramming\\ModelLib\\ModelLib.csproj": {}
+    "C:\\Users\\Patrick\\Documents\\GitHub\\REST-Controller-MSTest\\RestControllerPairProgramming\\MusicRecordsTests\\MusicRecordsTests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Patrick\\Documents\\GitHub\\REST-Controller-MSTest\\RestControllerPairProgramming\\ModelLib\\ModelLib.csproj": {
+    "C:\\Users\\Patrick\\Documents\\GitHub\\REST-Controller-MSTest\\RestControllerPairProgramming\\MusicRecordsTests\\MusicRecordsTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Patrick\\Documents\\GitHub\\REST-Controller-MSTest\\RestControllerPairProgramming\\ModelLib\\ModelLib.csproj",
-        "projectName": "ModelLib",
-        "projectPath": "C:\\Users\\Patrick\\Documents\\GitHub\\REST-Controller-MSTest\\RestControllerPairProgramming\\ModelLib\\ModelLib.csproj",
+        "projectUniqueName": "C:\\Users\\Patrick\\Documents\\GitHub\\REST-Controller-MSTest\\RestControllerPairProgramming\\MusicRecordsTests\\MusicRecordsTests.csproj",
+        "projectName": "MusicRecordsTests",
+        "projectPath": "C:\\Users\\Patrick\\Documents\\GitHub\\REST-Controller-MSTest\\RestControllerPairProgramming\\MusicRecordsTests\\MusicRecordsTests.csproj",
         "packagesPath": "C:\\Users\\Patrick\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Patrick\\Documents\\GitHub\\REST-Controller-MSTest\\RestControllerPairProgramming\\ModelLib\\obj\\",
+        "outputPath": "C:\\Users\\Patrick\\Documents\\GitHub\\REST-Controller-MSTest\\RestControllerPairProgramming\\MusicRecordsTests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -43,6 +43,24 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[2.2.3, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[2.2.3, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.9.4, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[3.0.2, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

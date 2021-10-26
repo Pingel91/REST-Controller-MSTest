@@ -1,15 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vaWSW5Dr3r9ZvEzdfnsDUKma3+QLi+qr23UUqRRvSAQr0jb8Rcf7DV5URYlU/dMQINXujNIU7d3ziNB0Jx+O8A==",
+  "dgSpecHash": "k5h9ojTX9o/R3m5kb8ZTa2oWv4V9csb1B7AIl3cg5R5qEdSfLHbSXcc6KjvCRNLhfSgzM/WzlwP672EwGPMi8w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\JPLGO\\OneDrive\\Dokumenter\\REST-Controller-MSTest\\RestControllerPairProgramming\\ModelLib\\ModelLib.csproj",
+  "projectFilePath": "C:\\Users\\Patrick\\Documents\\GitHub\\REST-Controller-MSTest\\RestControllerPairProgramming\\ModelLib\\ModelLib.csproj",
   "expectedPackageFiles": [],
-  "logs": [
-    {
-      "code": "Undefined",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Problem reading the cache file C:\\Users\\JPLGO\\OneDrive\\Dokumenter\\REST-Controller-MSTest\\RestControllerPairProgramming\\ModelLib\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
-    }
-  ]
+  "logs": []
 }

@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31624.102
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestControllerPairProgramming", "RestControllerPairProgramming\RestControllerPairProgramming.csproj", "{0907A28C-11D3-423F-BDFD-DD7DB77AA360}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RestControllerPairProgramming", "RestControllerPairProgramming\RestControllerPairProgramming.csproj", "{0907A28C-11D3-423F-BDFD-DD7DB77AA360}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModelLib", "ModelLib\ModelLib.csproj", "{FEBE87C9-3208-4781-946E-A89A49828F13}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ModelLib", "ModelLib\ModelLib.csproj", "{FEBE87C9-3208-4781-946E-A89A49828F13}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MusicRecordsTests", "MusicRecordsTests\MusicRecordsTests.csproj", "{84F0D441-C8F8-4B23-883B-4360D77572CE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{FEBE87C9-3208-4781-946E-A89A49828F13}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FEBE87C9-3208-4781-946E-A89A49828F13}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FEBE87C9-3208-4781-946E-A89A49828F13}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84F0D441-C8F8-4B23-883B-4360D77572CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84F0D441-C8F8-4B23-883B-4360D77572CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84F0D441-C8F8-4B23-883B-4360D77572CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84F0D441-C8F8-4B23-883B-4360D77572CE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
