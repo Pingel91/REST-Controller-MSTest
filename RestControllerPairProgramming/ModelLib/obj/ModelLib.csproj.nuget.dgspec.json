@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\JPLGO\\OneDrive\\Skrivebord\\Datamatiker\\3. semester Datamatiker 2021\\programmering 3 semester\\PairProgramming\\RestControllerPairProgramming\\ModelLib\\ModelLib.csproj": {}
+    "C:\\Users\\JPLGO\\OneDrive\\Dokumenter\\REST-Controller-MSTest\\RestControllerPairProgramming\\ModelLib\\ModelLib.csproj": {}
   },
   "projects": {
-    "C:\\Users\\JPLGO\\OneDrive\\Skrivebord\\Datamatiker\\3. semester Datamatiker 2021\\programmering 3 semester\\PairProgramming\\RestControllerPairProgramming\\ModelLib\\ModelLib.csproj": {
+    "C:\\Users\\JPLGO\\OneDrive\\Dokumenter\\REST-Controller-MSTest\\RestControllerPairProgramming\\ModelLib\\ModelLib.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\JPLGO\\OneDrive\\Skrivebord\\Datamatiker\\3. semester Datamatiker 2021\\programmering 3 semester\\PairProgramming\\RestControllerPairProgramming\\ModelLib\\ModelLib.csproj",
+        "projectUniqueName": "C:\\Users\\JPLGO\\OneDrive\\Dokumenter\\REST-Controller-MSTest\\RestControllerPairProgramming\\ModelLib\\ModelLib.csproj",
         "projectName": "ModelLib",
-        "projectPath": "C:\\Users\\JPLGO\\OneDrive\\Skrivebord\\Datamatiker\\3. semester Datamatiker 2021\\programmering 3 semester\\PairProgramming\\RestControllerPairProgramming\\ModelLib\\ModelLib.csproj",
+        "projectPath": "C:\\Users\\JPLGO\\OneDrive\\Dokumenter\\REST-Controller-MSTest\\RestControllerPairProgramming\\ModelLib\\ModelLib.csproj",
         "packagesPath": "C:\\Users\\JPLGO\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\JPLGO\\OneDrive\\Skrivebord\\Datamatiker\\3. semester Datamatiker 2021\\programmering 3 semester\\PairProgramming\\RestControllerPairProgramming\\ModelLib\\obj\\",
+        "outputPath": "C:\\Users\\JPLGO\\OneDrive\\Dokumenter\\REST-Controller-MSTest\\RestControllerPairProgramming\\ModelLib\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
